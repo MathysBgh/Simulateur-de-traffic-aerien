@@ -26,14 +26,3 @@ Le Simulateur de Trafic Aérien est un projet complet pour la gestion du trafic 
 - **Calcul des Itinéraires de Vol** : L'algorithme de Dijkstra est utilisé pour calculer le chemin le plus court entre deux aéroports, en fonction de la disponibilité des avions.
 
 - **Simulation de Trafic Aérien** : Vous pouvez lancer des simulations de trafic aérien avec des départs et des arrivées aléatoires entre les aéroports.
-
-## Exemple de Code
-
-```cpp
-#include "Header.h"
-using namespace std;
-
-int main()
-{
-    // Code source du simulateur
-}
