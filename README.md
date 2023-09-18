@@ -7,11 +7,6 @@ Le Simulateur de Trafic Aérien est un projet de simulation de gestion du trafic
 
 - [Introduction](#introduction)
 - [Fonctionnalités](#fonctionnalités)
-- [Exemple de Code](#exemple-de-code)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Contributions](#contributions)
-- [Licence](#licence)
 
 ## Introduction
 
