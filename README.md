@@ -2,7 +2,6 @@
 
 Le Simulateur de Trafic Aérien est un projet de simulation de gestion du trafic aérien en C++. Il vous permet de gérer un réseau d'aéroports, de suivre les déplacements d'avions, de planifier des vols et de simuler des scénarios de trafic aérien.
 
-![Aéroport](lien_vers_une_image_de_aeroport.png)
 
 ## Table des matières
 
